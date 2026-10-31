@@ -1,0 +1,8 @@
+System.out.println("Hola mundo")
+3 + 7
+$2
+3 * 2
+3 - 2
+3 / 2
+3 % 2
+Math.sqrt(16)
